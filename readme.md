@@ -29,4 +29,4 @@ A simple Streamlit web application for basic image processing.
 - Canny edge detection requires grayscale images; this is handled automatically in the app.
 - Histogram works for grayscale, binary, and RGB images.
 
-  If you have any questions/problem pleasw contact me here **aroundthegreat@gmail.com**
+  If you have any questions/problem please contact me here **aroundthegreat@gmail.com**
