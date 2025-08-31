@@ -1,5 +1,3 @@
-git push origin main# Image Processing Web App
-
 A simple Streamlit web application for basic image processing.
 
 ## Features
