@@ -13,15 +13,15 @@ A simple Streamlit web application for basic image processing.
 
 1. Clone this repository
 2. Create a virtual environment (optional but recommended)
-     python -m venv env
+    : python -m venv env
 3. Activate the environment
-     env\Scripts\activate
+    : env\Scripts\activate
 4. Install dependencies
-     pip install -r requirements.txt
+    : pip install -r requirements.txt
 
 **Usage**
 - Run the Streamlit app
-    streamlit run app.py
+    : streamlit run app.py
 - Open the URL shown in your terminal (usually http://localhost:8501) in a web browser
 
 **notes**
@@ -29,4 +29,5 @@ A simple Streamlit web application for basic image processing.
 - Canny edge detection requires grayscale images; this is handled automatically in the app.
 - Histogram works for grayscale, binary, and RGB images.
 
-  If you have any questions/problem please contact me here **aroundthegreat@gmail.com**
+
+**If you have any questions/problem please contact me here aroundthegreat@gmail.com**
